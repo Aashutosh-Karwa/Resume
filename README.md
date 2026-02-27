@@ -1,2 +1,2 @@
-# Resume-QA
+# Resume-GenAI
 GenAI Role Resume
